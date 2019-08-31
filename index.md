@@ -6,5 +6,6 @@
 
 ## Contact
 
-[Charlotte McClintock](char@virginia.edu)
-[Rohit Musti](ro@virginia.edu)
+[Charlotte McClintock](mailto:char@virginia.edu)
+
+[Rohit Musti](mailto:ro@virginia.edu)
