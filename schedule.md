@@ -1,5 +1,3 @@
-# Digital Governance Lab 
-
 ## Schedule 
 
 |Date | Topic | Media| Category|

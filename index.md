@@ -1,5 +1,3 @@
-# Digital Governance Lab
-
 ## Important Links
 
 [Syllabus](./syllabus.md)
