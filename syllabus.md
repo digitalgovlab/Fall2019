@@ -1,5 +1,7 @@
 # Digital Governance Lab
 
+## Syllabus
+
 Instructors: [Charlotte McClintock](https://charlottemcclintock.github.io/), [Rohit Musti](https://rohitmusti.dev/)
 
 ## Overview
