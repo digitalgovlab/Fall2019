@@ -6,4 +6,4 @@
 
 1. Open up your github account and navigate to your forked copy of the digital governance repository. Note: we will help everyone set up github accounts on the first day and get everyone set up.
 
-1. Use the online editor to edit the table and make a pull request for your new media submission on the appropriate table.
+1. Use the online editor to edit the table and make a pull request for your new media submission on your page.
