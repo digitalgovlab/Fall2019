@@ -20,7 +20,6 @@ The last 6 weeks of the class will be dedicated to a solution roadmapping projec
 1. Think critically about the role of technology in our political landscape and engage with peers to develop informed opinions about regulation and governance. 
 1. Work through the creative process of designing a technological solution to a government problem.
 
-
 ## Course Topics
 
 The automation of social services and the removal of the “human” element of systems
