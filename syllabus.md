@@ -33,7 +33,7 @@ Big Tech attempts at self regulation: external ethics boards, internal IRB struc
 
 ## Grading
 
-- 20% - By the beginning of each class, students will have submitted new media they think is relevant to the assigned media for that particular class.
+- 20% - By the beginning of each class, students will have submitted new media they think is relevant to the assigned media for that particular class. Bonus love/points for choosing media from non-traditional voices and spaces.
 
 - 40% - Course participation - students are expected to engage with the material and their peers during the course period. Students who are uncomfortable speaking in class may send an email of their thoughts, comments and questions to the instructors.
 
