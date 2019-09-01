@@ -12,10 +12,9 @@ In order to explore this topic more deeply, we will have two content focuses: te
 The last 6 weeks of the class will be dedicated to a solution roadmapping project. Students will pick a government technology program and propose a new model. This can take many forms, students are encouraged to submit sketches, wire-framed models, written descriptions, and may use any other mediums as appropriate to convey their idea. Students are not required to submit a functional application, but may choose to create a simplified version of the application for demonstration. 
 
 ## Course Goals:
-Students will:
-Develop an understanding of the interactions between government and technology including past trends and recent developments. 
-Think critically about the role of technology in our political landscape and engage with peers to develop informed opinions about regulation and governance. 
-Work through the creative process of designing a technological solution to a government problem.
+1. Develop an understanding of the interactions between government and technology including past trends and recent developments. 
+1. Think critically about the role of technology in our political landscape and engage with peers to develop informed opinions about regulation and governance. 
+1. Work through the creative process of designing a technological solution to a government problem.
 
 
 ## Course Topics
