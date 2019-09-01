@@ -1,3 +1,7 @@
+# Digital Governance Lab 
+
+## Schedule 
+
 |Date | Topic | Media| Category|
 |---	|---	|---	| --- |
 |September 2, 2019| Introduction to Class |   	| |
