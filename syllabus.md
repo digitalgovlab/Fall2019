@@ -33,9 +33,9 @@ Big Tech attempts at self regulation: external ethics boards, internal IRB struc
 
 ## Grading
 
-- 20% - At the beginning of each class, students will submit three questions or comments  for discussion based on past discussions and new media assigned for engagement before the class.
+- 20% - By the beginning of each class, students will have submitted new media they think is relevant to the assigned media for that particular class.
 
-- 40% - Course participation - students are expected to engage with the material and their peers during the course period. Students who are uncomfortable speaking in class may send an email of their thoughts, comments and questions to the instructors. 
+- 40% - Course participation - students are expected to engage with the material and their peers during the course period. Students who are uncomfortable speaking in class may send an email of their thoughts, comments and questions to the instructors.
 
 - 40% - Final Project: students are expected to work in small teams to design a technological solution to an existing government problem. 
 
