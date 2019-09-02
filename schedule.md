@@ -11,8 +11,8 @@
 |7|October 14, 2019|Data Ownership and Privacy|	[MIT Technology Review](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)| Governance of Technology |
 |8|October 21, 2019|Surveillance Capitalism, Begin Final Projects|  Surveillance Capitalism chapter (see Collab) 	| Governance of Technology |
 |9|October 28, 2019| Social Media & Democracy |   	||
-|10|November 4, 2019|  |   	||
-|11|November 11, 2019|  |   	||
-|12|November 18, 2019|  |   	||
+|10|November 4, 2019|Bad Gov Tech & Its Consequences |  Automating Inequality chapter (see Collab), [Twitter post](https://twitter.com/supergovernance/status/1136949842696122368)	| Technology of Governance|
+|11|November 11, 2019|Digital Discourse|||
+|12|November 18, 2019|Current Tech Policy|||
 |-|November 25, 2019| Thanksgiving Week - No Class |   	||
 |13|December 2, 2019| Final Project Presentations|   	||
