@@ -12,7 +12,7 @@ Government technology is currently lagging far behind industry. A joint study be
 
 In order to explore this topic more deeply, we will have two content focuses: tech regulation and digital governance. For the first focus of the class we will cover tech regulation, including readings from Zuboff’s “Surveillance Capitalism”.  We will examine the current state of technology regulation and ask questions about how to move forward in the current political environment. For the second focus of the class will cover civic technology, focusing on readings from Eubanks’ “Automating Inequality”. We will also examine past digital government solutions, understanding their strengths, weaknesses, new opportunities, and new exposure to threats. Throughout this course, students will have an opportunity to engage with the analysis and development process, deepening their understanding of the context of digital governance and the associated challenges.
 
-The last 6 weeks of the class will be dedicated to a solution roadmapping project. Students will pick a government technology program and propose a new model. This can take many forms, students are encouraged to submit sketches, wire-framed models, written descriptions, and may use any other mediums as appropriate to convey their idea. Students are not required to submit a functional application, but may choose to create a simplified version of the application for demonstration.
+The last 6 weeks of the class will be dedicated to a solution roadmapping project. Students will pick a governance of technology or technology of governance program and propose a new model. This can take many forms, students are encouraged to submit sketches, wire-framed models, written descriptions, and may use any other mediums as appropriate to convey their idea. Students are not required to submit a functional application, but may choose to create a simplified version of the application for demonstration.
 
 ## Course Goals
 
@@ -22,25 +22,29 @@ The last 6 weeks of the class will be dedicated to a solution roadmapping projec
 
 ## Course Topics
 
-The automation of social services and the removal of the “human” element of systems
-Algorithmic bias, human bias, and the tradeoff in using algorithms to make choices
-Regulation of technology monopolies and digital space, how to regulate the unprecedented 
-Free speech and the first amendment online, including the Communications Decency Act and the publisher loophole
-The GDPR as a baseline for defining user privacy rights, collective action, and distributed power
-The right to be forgotten and the right against inferential demographic attribution, where is the line?
-Estonia as a leader in digital governance, security and blockchain technology in government
-Big Tech attempts at self regulation: external ethics boards, internal IRB structures, employee protests
+- The automation of social services and the removal of the “human” element of systems
+- Algorithmic bias, human bias, and the tradeoff in using algorithms to make choices
+- Regulation of technology monopolies and digital space, how to regulate the unprecedented 
+- Free speech and the first amendment online, including the Communications Decency Act and the publisher loophole
+- The GDPR as a baseline for defining user privacy rights, collective action, and distributed power
+- The right to be forgotten and the right against inferential demographic attribution, where is the line?
+- Estonia as a leader in digital governance, security and blockchain technology in government
+- Big Tech attempts at self regulation: external ethics boards, internal IRB structures, employee protests
 
 ## Grading
 
-- 20% - By the beginning of each class, students will have submitted new media they think is relevant to the assigned media for that particular class. Bonus love/points for choosing media from non-traditional voices and spaces.
+- 20% - By the beginning of each class, students will have submitted new media they think is relevant to the assigned media for that particular class. Bonus love/points for choosing media from non-traditional voices and spaces. Media selections should be submitted for each class by the previous Sunday at 12pm, 24 hours in advance of the class deadline. Once an article is submitted by a student through GitHub, no other students may submit that article. 
 
-- 40% - Course participation - students are expected to engage with the material and their peers during the course period. Students who are uncomfortable speaking in class may send an email of their thoughts, comments and questions to the instructors.
+- 40% - Course participation - students are expected to engage with the material and their peers during the course period. Students who are uncomfortable speaking in class may send an email of their thoughts, comments and questions to the instructors. Students have one unexcused absence, and are expected to communicate with course instructors about any additional absences before the class to be missed. 
 
-- 40% - Final Project: students are expected to work in small teams to design a technological solution to an existing government problem. 
+- 40% - Final Project: students are expected to work in small teams to design a technological solution to an existing government problem or propose a regulatory structure for a technology problem. 
 
+## Unexpected Circumstances
 
+We know life happens sometimes. Please be communicative about any problems that come up that may affect your work in this course and we will do our best to work with you to adjust deadlines and find alternatives. 
 
+## Open Source Identity Privacy
 
+The materials for this course will be open source, including the media submissions of all students enrolled. During the course term, student pages will be name identified for ease of use by instructors and other enrolled students, but at the conclusion of the semester, all names will be replaced with student initials. 
  
 
