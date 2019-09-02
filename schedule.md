@@ -7,9 +7,9 @@
 |3|September 16, 2019|Algorithmic Bias|[Bias in Sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), [Bias in Hiring ](https://qz.com/1427621/companies-are-on-the-hook-if-their-hiring-algorithms-are-biased/), [Human Bias](https://economix.blogs.nytimes.com/2011/04/14/time-and-judgment/), [Solving AI Bias](https://medium.com/s/story/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53)| Technology of Governance|
 |4|September 23, 2019|Regulating Tech Monopolies|[Technology Review](https://www.technologyreview.com/s/613640/big-tech-monopoly-breakup-amazon-apple-facebook-google-regulation-policy/), [Prospect](https://prospect.org/article/how-regulate-tech-platforms)| Governance of Technology |
 |5|September 30, 2019|Anonymity and the Right to be Forgotten|[John Oliver](https://www.youtube.com/watch?v=r-ERajkMXw0)| Governance of Technology |
-|6|October 7, 2019|Social Media & Democracy|   	| |
-|7|October 14, 2019|Data Ownership and Privacy|	[MIT Technology Review](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)|  |
-|8|October 21, 2019|Begin Final Projects|   	||
+|6|October 7, 2019|Social Media & Democracy|  tbd 	| tbd |
+|7|October 14, 2019|Data Ownership and Privacy|	[MIT Technology Review](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)| Governance of Technology |
+|8|October 21, 2019|Begin Final Projects|  tbd 	||
 |9|October 28, 2019|  |   	||
 |10|November 4, 2019|  |   	||
 |11|November 11, 2019|  |   	||
