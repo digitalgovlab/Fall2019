@@ -1,8 +1,8 @@
 
-## Alex Wsssel
-Github Username: alexwassel
+## Name
+Github Username: 
 
-Computer Science and Cognitive Science, 3rd Year
+Academic Focus, Year
 
 > A short blurb on why you're taking the class
 
