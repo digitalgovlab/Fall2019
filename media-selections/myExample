@@ -1,8 +1,7 @@
-
 ## Name
-Github Username: 
+Github Username:
 
-Academic Focus, Year
+Field of Study, Year
 
 > A short blurb on why you're taking the class
 
