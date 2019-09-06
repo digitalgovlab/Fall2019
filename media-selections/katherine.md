@@ -1,9 +1,9 @@
 ## Name
-Github Username:
+Github Username:katherineweinschenk
 
-Field of Study, Year
+Field of Study, Year: CS and Linguistics - 3rd Year
 
-> A short blurb on why you're taking the class
+> I'm taking this class because I think that computer scientists are trained for efficiency, not ethics. I want to learn the adverse effects of technology so I don't contribute to the problem and so I can advocate for more critical thinking in the field.
 
 
 ### Class 1 - Topic
