@@ -10,9 +10,9 @@ BA Computer Science, Spanish
 
 ### Class 1 - Content Moderation, Free Speech
 
-[Media Title](link.com/to-media)
+[Facebook "Supreme Court" of Content Moderation] https://www.pri.org/stories/2019-09-05/facebook-wants-create-supreme-court-content-moderation-will-it-work
 
-Media Justification:
+Zuckerberg wants to create an external board that will review appeals of photos or posts that had been taken down by automatic content moderation on Facebook. It will be external in order to avoid any accountability. 
 
 ### Class 2 - Topic
 
