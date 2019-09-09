@@ -3,7 +3,7 @@
 
 ### Announcements
 
-Artificial Intelligence and Machine Learning (AIML) seminar
+<u>Artificial Intelligence and Machine Learning (AIML) seminar</u>
 
 Evaluating Differentially Private Machine Learning in Practice
 
