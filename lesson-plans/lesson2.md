@@ -20,9 +20,8 @@ Some folks have dropped and some have added. Let's do a brief introduction
     - Transparency
     - Steps forward
 
-### Feedback
+### Feedback (5 minutes)
 
 - Did we like using Github?
 - Course site issues?
-
 
