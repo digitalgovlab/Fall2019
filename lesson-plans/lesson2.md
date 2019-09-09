@@ -7,14 +7,10 @@
 
 Evaluating Differentially Private Machine Learning in Practice
 
-Bargav Jayaraman
-Department of Computer Science
-University of Virginia
-https://bargavjayaraman.github.io
-
-Date: Friday September 13th, 2019
-Time: 12:00 PM
-Where: Rice 242
+-  [Bargav Jayaraman](https://bargavjayaraman.github.io)
+    - Department of Computer Science
+    - University of Virginia
+- 12:00 PM Friday September 13th, 2019 in Rice 242
 
 Abstract: [http://www.cs.virginia.edu/~evans/pubs/usenix2019/](http://www.cs.virginia.edu/~evans/pubs/usenix2019/)
 
