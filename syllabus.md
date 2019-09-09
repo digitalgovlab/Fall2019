@@ -51,12 +51,12 @@ The materials for this course will be open source, including the media submissio
 
 Email to set up an appointment!
 
-### Core Values (how we think)
+## Core Values (how we think)
 - *Humility:* Technology is not the answer to every problem, and technologists do not have the answer to every problem. Respect and seek the expertise of service providers and people with lived experience. 
 - *Mutuality:* We are all in this together. We value others as we value ourselves. 
 - *Service:* Our work will be directed at serving our communities. 
 - *Inclusivity:* Who’s at the table shapes what is talked about, what is done, and how we think. We will include diverse perspectives and experiences in order in order to create an inclusive community.
 
-### Core Principles (how/what we do)
+## Core Principles (how/what we do)
 - *Openness:* Our work will be transparent wherever possible and our communities will not gate keep information or opportunity. 
 - *Internal Consistency:* Our work will be directly related to our goals and in line with our core values and principles. 
