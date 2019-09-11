@@ -14,6 +14,6 @@ Media Justification: This week's topic reminded me of the Logan Paul Youtube sca
 
 ### Class 2 - Topic
 
-[Media Title](link.com/to-media)
+[AI-powered cameras become new tool against mass shootings](https://www.latimes.com/business/story/2019-09-04/ai-powered-cameras-become-new-tool-against-mass-shootings)
 
-Media Justification:
+Media Justification: This article, to me, is so ridiculous. We have resorted to artificial intelligence, which is just a lot of matrix math, to identify and "stop" school shooters. "Intelligent video" is supposed to be able to identify not only weapons, but "violent" facial expressions. I'm not sure what this even means, and overall, it's avoiding the main issue, which is that Americans have very easy access to guns. Also, data-driven racism could make this technology go horribly wrong. For some reason, we really have trouble identifying the root cause of problems, and at the same time put so much trust in this non-sentient body.
