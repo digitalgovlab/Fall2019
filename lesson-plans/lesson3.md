@@ -3,7 +3,7 @@
 
 ### Review of Assigned Media + New Media (40 minutes)
 
-- Quotes from Bias in Sentencing
+- __Quotes from Bias in Sentencing__
     - When a full range of crimes were taken into account — including misdemeanors such as driving with an expired license — the algorithm was somewhat more accurate than a coin flip. Of those deemed likely to re-offend, 61 percent were arrested for any subsequent crimes within two years.
     - We also turned up significant racial disparities, just as Holder feared. In forecasting who would re-offend, the algorithm made mistakes with black and white defendants at roughly the same rate but in very different ways.
 
@@ -15,15 +15,15 @@
     - James Rivelli, a 54-year old Hollywood, Florida, man, was arrested two years ago for shoplifting seven boxes of Crest Whitestrips from a CVS drugstore. Despite a criminal record that included aggravated assault, multiple thefts and felony drug trafficking, the Northpointe algorithm classified him as being at a low risk of reoffending.
         - “I am surprised it is so low,” Rivelli said when told by a reporter he had been rated a 3 out of a possible 10. “I spent five years in state prison in Massachusetts. But I guess they don’t count that here in Broward County.” In fact, criminal records from across the nation are supposed to be included in risk assessments.
         - Less than a year later, he was charged with two felony counts for shoplifting about $1,000 worth of tools from Home Depot. He said his crimes were fueled by drug addiction and that he is now sober.
-- Quotes from Bias in Hiring
+- __Quotes from Bias in Hiring__
     - But it didn’t. After the company trained the algorithm on 10 years of its own hiring data, the algorithm reportedly became biased against female applicants. The word “women,” like in women’s sports, would cause the algorithm to specifically rank applicants lower. 
     - After an audit of the algorithm, the resume screening company found that the algorithm found two factors to be most indicative of job performance: their name was Jared, and whether they played high school lacrosse. Girouard’s client did not use the tool.
     - Humans typically think that things done by machines are better than if they were done by a human. It’s a well-studied phenomenon called “automation bias.”
     - “It blew my mind that there are 10,000 industrial organization psychologists in the world, they go to school, they get Ph.Ds in this, there’s a whole body of predictive science out there that tells us what predicts a top performer and what doesn’t, but yet 98% of the world is using poor quality, crap data that does not predict that, and only introduces a boatload of bias,” says Caitlin MacGregor, CEO of Plum.
-- Quotes from Human Bias
+- __Quotes from Human Bias__
     -  experienced parole judges in Israel granted freedom about 65 percent of the time to the first prisoner who appeared before them on a given day. By the end of a morning session, the chance of release had dropped almost to zero.
     - This suggests that college admissions committees are more likely to accept the first applicants they consider after a lunch break. Or that quality-control officers may be more likely to ignore possible flaws in products as a long day drags toward its close.
-- Solving AI Bias
+- __Quotes from Solving AI Bias__
     - The first is that addressing bias as a computational problem obscures its root causes. Bias is a social problem, and seeking to solve it within the logic of automation is always going to be inadequate.
     - Second, even apparent success in tackling bias can have perverse consequences. Take the example of a facial recognition system that works poorly on women of color because of the group’s underrepresentation both in the training data and among system designers. Alleviating this problem by seeking to “equalize” representation merely co-opts designers in perfecting vast instruments of surveillance and classification.
     - Bias is real, but it’s also a captivating diversion.
