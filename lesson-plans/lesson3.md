@@ -22,9 +22,13 @@ For each quote, we plan on discussing it, placing it into its context, and under
         - >Many datasets are incomplete. Chatting with almost researcher and they will tell you how their data is always woefully incomplete. Given that data is almost never complete or robust, what standards should we have in place for what data is "complete" enough for use.
 - __Quotes from Bias in Hiring__
     - But it didn’t. After the company trained the algorithm on 10 years of its own hiring data, the algorithm reportedly became biased against female applicants. The word “women,” like in women’s sports, would cause the algorithm to specifically rank applicants lower. 
+        - >How can we know what to audit for?
     - After an audit of the algorithm, the resume screening company found that the algorithm found two factors to be most indicative of job performance: their name was Jared, and whether they played high school lacrosse. Girouard’s client did not use the tool.
+        - >Clearly any hiring algorithm built using ML is going to produce systemic biases or rely on systemic biases from institutions? Is this an unavoidable problem?
     - Humans typically think that things done by machines are better than if they were done by a human. It’s a well-studied phenomenon called “automation bias.”
+        - >An algorithm is not much better than its designer. How can we account for this as they enter our lives? How can we trust security based on algorithms (Apple Face-ID issues)? Who can we trust to audit them thoroughly?
     - “It blew my mind that there are 10,000 industrial organization psychologists in the world, they go to school, they get Ph.Ds in this, there’s a whole body of predictive science out there that tells us what predicts a top performer and what doesn’t, but yet 98% of the world is using poor quality, crap data that does not predict that, and only introduces a boatload of bias,” says Caitlin MacGregor, CEO of Plum.
+        - >Code is law. At least humans are malleable and can describe nuance. Should we just employ these people and hope that they are more aware of their biases than any algorithm could possibly be aware of its own biases.
 - __Quotes from Human Bias__
     -  experienced parole judges in Israel granted freedom about 65 percent of the time to the first prisoner who appeared before them on a given day. By the end of a morning session, the chance of release had dropped almost to zero.
         - >How do we solve this difficult problem of conditions well beyond the professional setting of the judges clearly impact their judgement? More broadly, how can we build scalable systems without starting to tolerate faults like this?
