@@ -12,6 +12,23 @@ The study and practice of digital governance should be the study and practice of
 
 - [How to Submit Assignments](./submit.md)
 
+## Student Media Selections
+
+- [Alex](./media-selections/Alex.md)
+
+- [Alexandra](./media-selections/alexandrastampfl.md)
+
+- [Diana](./media-selections/Diana.md)
+
+- [Hugh](./media-selections/hugh.md)
+
+- [Jessica](./media-selections/jessica.md)
+
+- [Katherine](./media-selections/katherine.md)
+
+- [Prachi](./media-selections/Prachi.md)
+
+
 ## Contact
 
 - [Charlotte McClintock](mailto:char@virginia.edu)
