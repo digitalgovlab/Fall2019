@@ -3,7 +3,7 @@
 
 ### Review of Assigned Media + New Media (40 minutes)
 
-For each quote, we plan on discussing it, placing it into its context, and understanding how it fits into the braoder discussion about bias.
+For each quote, we plan on discussing it, placing it into its context, and understanding how it fits into the broader discussion about bias.
 
 - __Quotes from Bias in Sentencing__
     - When a full range of crimes were taken into account — including misdemeanors such as driving with an expired license — the algorithm was somewhat more accurate than a coin flip. Of those deemed likely to re-offend, 61 percent were arrested for any subsequent crimes within two years.
