@@ -16,3 +16,9 @@ Media Justification: This is a thoughtful piece by one of my favorite (self-decl
 [Ethics and Governance of AI Initiative](https://cyber.harvard.edu/topics/ethics-and-governance-ai)
 
 Media Justification: I had the privilege of working at the Berkman Klein Center the summer before last on their burgeoning "Ethics and Governance of AI" initiative. Throughout the summer, we examined a plethora of different use cases for contemporary artificial intelligence techniques/practices and considered how such technologies can be harnessed in support of the public interest. I wanted to share this link with our class because it is an aggregate overview of the initiative and the various projects and discussions that have emerged from it.
+
+### Class 3 - Algorithmic Bias
+
+[Zittrain and Zuckerberg discuss encryption, ‘information fiduciaries’ and targeted advertisements](https://www.youtube.com/watch?v=WGchhsKhG-A)
+
+Media justification: In this fascinating (albeit lengthy) video, Jonathan Zittrain of the Berkman Klein Center and Mark Zuckerberg discuss some of the most fundamental challenges facing both Facebook as a company and society at large at the present moment. Of the issues discussed, the two cover various approaches and proposals for regulatory practices (either enforced by the company itself or by an external legislative body) which could benefit the company and the communities it is intended to serve.
