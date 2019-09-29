@@ -24,3 +24,9 @@ Media Justification: This article discusses how essay-scoring engines are subjec
 [Antitrust Can’t Catch Big Tech](https://www.wsj.com/articles/antitrust-cant-catch-big-tech-11568577387)
 
 Media Justification: This opinion article by Andy Kessler discusses how big tech will always escape antitrust legislations. Kessler mentions how antitrust legislation is reactive, not proactive, meaning laws are created based on evidence of consumer harm. Therefore, even though the Justice Department and FTC may speculate the future of antitrust and big tech, they won't be able to enact legislation that can break up big tech until there is evidence that it is harming users.
+
+### Class 4 - Anonymity and the Right to be Forgotten
+
+[One Brother Stabbed the Other. The Journalist Who Wrote About It Paid a Price.](https://www.nytimes.com/2019/09/23/technology/right-to-be-forgotten-law-europe.html)
+
+Media Justification: When I searched for articles regarding the right to be forgotten, nearly every news article in the past week focused on the European top court's decision to not extend Google's "right to be forgotten" law globally. I liked the incorporation of a quote from Google's senior privacy counsel, Peter Fleischer, who discussed the need to strike a balance between user privacy and the people's right to access information. In addition, I thought it was important how the article talked about the dangers of the right to be forgotten, especially if it begins affecting news reports and what is reported to the public.
