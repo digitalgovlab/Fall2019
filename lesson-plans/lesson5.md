@@ -17,7 +17,19 @@ For each quote, we plan on discussing it, placing it into its context, and under
         - Can the company deny access to the service if customer doesn't agree to the tracking?
         - Are there some vital services that must guarantee some tier of service to everyone?
 - __NPR__
-    - TBD
+    - Something shouldn't follow your for life. 
+        - If you were a drunk driver and killed several people due to your crime, after you have served your criminal sentence and re-paid your debt to society, should you be free from the stigma of having committed the original crime?
+    - Accessiblity of information. More effort in the past and last anonymity today.
+        - if you were divorced in the "old days", it was public and kept in a record in a basement somewhere. In the modern world, it is much easier to access "public" information. Does how accessible the information that has always been public impact whether or not it is public?
+    - This smacks of "censorship".
+        - Is this censorship?
+    - It doesn't actually work. It only blocks the article if you search the persons name with it.
+        - Given that this doesn't technically actually remove the link, is it a toothless law?
+    - Infringes upon the rights of others to forget "true" information about you
+    - What about privately made search engines?
+        - So what if we all just made our own search engines. Does that render this law somewhat pointless?
+    - 89% of users do not go to the second page of google. Could we just push bad results to the second page?
+    - Individuals are not as bad as their worst deed. Institutions are not as good as their best press release.
 
 ### Feedback (5 minutes)
 
