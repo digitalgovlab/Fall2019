@@ -22,3 +22,9 @@ Media Justification: I had the privilege of working at the Berkman Klein Center 
 [Zittrain and Zuckerberg discuss encryption, ‘information fiduciaries’ and targeted advertisements](https://www.youtube.com/watch?v=WGchhsKhG-A)
 
 Media justification: In this fascinating (albeit lengthy) video, Jonathan Zittrain of the Berkman Klein Center and Mark Zuckerberg discuss some of the most fundamental challenges facing both Facebook as a company and society at large at the present moment. Of the issues discussed, the two cover various approaches and proposals for regulatory practices (either enforced by the company itself or by an external legislative body) which could benefit the company and the communities it is intended to serve.
+
+### Class 4 - The Right to be Forgotten
+
+[Why Journalists Shouldn't Fear Europe's 'Right to be Forgotten'](https://www.theatlantic.com/technology/archive/2012/01/why-journalists-shouldnt-fear-europes-right-to-be-forgotten/251955/)
+
+Media justification: A fascinating piece published in the Atlantic on the day in 2012 during which the Right to be Forgotten was passed into E.U. law. Looks specifically into the implications of the legislation for journalism, which was (and remains) a significant concern. Interesting to see the dimensions of the discussion which remain highly relevant and those which have shifted since the legislation's inception.
