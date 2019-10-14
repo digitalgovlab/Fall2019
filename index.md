@@ -14,11 +14,7 @@ The study and practice of digital governance should be the study and practice of
 
 ## Student Media Selections
 
-- [Alex](./media-selections/Alex.md)
-
-- [Alexandra](./media-selections/alexandrastampfl.md)
-
-- [Diana](./media-selections/Diana.md)
+- [Crystal](./media-selections/Crystal.md)
 
 - [Hugh](./media-selections/hugh.md)
 
