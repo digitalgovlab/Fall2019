@@ -30,3 +30,12 @@ Media Justification: This opinion article by Andy Kessler discusses how big tech
 [One Brother Stabbed the Other. The Journalist Who Wrote About It Paid a Price.](https://www.nytimes.com/2019/09/23/technology/right-to-be-forgotten-law-europe.html)
 
 Media Justification: When I searched for articles regarding the right to be forgotten, nearly every news article in the past week focused on the European top court's decision to not extend Google's "right to be forgotten" law globally. I liked the incorporation of a quote from Google's senior privacy counsel, Peter Fleischer, who discussed the need to strike a balance between user privacy and the people's right to access information. In addition, I thought it was important how the article talked about the dangers of the right to be forgotten, especially if it begins affecting news reports and what is reported to the public.
+
+### Class 7 - Data Ownership and Privacy
+
+[Andrew Yang's plan to make your data yours has crypto written all over it]
+(https://decrypt.co/9900/andrew-yangs-plan-to-make-your-data-yours-has-crypto-written-all-over-it)
+[DATA AS A PROPERTY RIGHT]
+https://www.yang2020.com/policies/data-property-right/
+
+Media Justification: Given that the articles this week focused on the issue of regarding data as property, I found this article incredibly relevant. The article discusses Andrew Yang's bid for President and a central component of his campaign, which is his "Data as a Property Right" policy. If I hadn't read any of the articles this week, I would've agreed with Yang's policy. However, now that I am cognizant of the dangers of regarding data as property, I find many components of Yang's policy flawed. His policy proposes an "opt-in" process of data-sharing and how users should get economic value for the data, which I find problematic given that data should not be considered as something you can own, but rather something you emit in small bits every day.
