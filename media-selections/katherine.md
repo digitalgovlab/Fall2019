@@ -1,7 +1,7 @@
 ## Name
 Github Username:katherineweinschenk
 
-Field of Study, Year: CS and Linguistics - 3rd Year
+Field of Study, Year: CS and Anthropology - 3rd Year
 
 > I'm taking this class because I think that computer scientists are trained for efficiency, not ethics. I want to learn the adverse effects of technology so I don't contribute to the problem and so I can advocate for more critical thinking in the field.
 
@@ -31,3 +31,14 @@ This short Adam Ruins Everything clip reveals a small part of the relationship b
 [Google wins case over EU’s ‘right to be forgotten’ rules](https://www.washingtonpost.com/world/europe/eu-top-court-rules-in-favor-of-google-on-search-engine-issue/2019/09/24/aeb78c9e-dea4-11e9-be7f-4cc85017c36f_story.html)
 
 This seems like the most relevant topic to discuss, considering that the EU's highest court ruled only two days ago that the "right to be forgotten" rule does not apply outside of the EU. This means that people cannot request for their information to be removed beyond the internet in the EU (which seems a little arbitrary to me). However, the court also ruled that search engines must discourage internet users from going outside of the EU to find the deleted information from inside the EU. This relates to our conversation about how to deal with a "borderless" internet in a heavily bordered world. 
+
+
+
+### Class 4 - Data Ownership and Privacy
+
+[DATA AS A PROPERTY RIGHT](https://www.yang2020.com/policies/data-property-right/)
+
+After some research, I came across Andrew Yang's 7 points for implementing data regulations. He, too, describes data in terms of ownership and encourages individual ownership of data. His proposed "rights" reflect ideas that are present in the GDRP, such as the right to be forgotten. These rights also include the right to be informed if the ownership of your data changes hands, the right to be told how a website uses your data, etc. What interests me is his concluding paragraph in which he mentions the ideas of informed consent and just compensation. As academic researchers are held to these ethical standards, corporate researchers should only be allowed to evaluate data if it is collected with informed consent, and if the research subjects are compensated (in Yang's terms, monetarily) for their data/information.
+
+
+
