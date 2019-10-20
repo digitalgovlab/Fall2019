@@ -34,11 +34,16 @@ This seems like the most relevant topic to discuss, considering that the EU's hi
 
 
 
-### Class 4 - Data Ownership and Privacy
+### Class 5 - Data Ownership and Privacy
 
 [DATA AS A PROPERTY RIGHT](https://www.yang2020.com/policies/data-property-right/)
 
 After some research, I came across Andrew Yang's 7 points for implementing data regulations. He, too, describes data in terms of ownership and encourages individual ownership of data. His proposed "rights" reflect ideas that are present in the GDRP, such as the right to be forgotten. These rights also include the right to be informed if the ownership of your data changes hands, the right to be told how a website uses your data, etc. What interests me is his concluding paragraph in which he mentions the ideas of informed consent and just compensation. As academic researchers are held to these ethical standards, corporate researchers should only be allowed to evaluate data if it is collected with informed consent, and if the research subjects are compensated (in Yang's terms, monetarily) for their data/information.
 
+### Class 6 - Surveillance Capitalism
+
+[Here are 4 steps to defend yourself from Big Tech’s greed-driven behavioral manipulation](https://www.alternet.org/2019/09/here-are-4-steps-to-defend-yourself-from-big-techs-greed-driven-behavioral-manipulation/)
+
+This article references Zuboff's book and responds to it by proposing 4 ways to avoid companies' behavioral manipulation. The four points are: 1) join the resistance, 2) minimize your interaction with technology, 3) do less phone-orientation activities, and 4) join an activist group. I thought this was interesting because Zuboff did not propose solutions to surveillance capitalism, but rather sought to define it. However, I don't agree with the simplicity of this article's answers. The article suggests that it is the individual's obligation to protect themself from exploitation and manipulation, which does nothing to dismantle the system but places more anxiety on the individual. These technologies that have been adopted for surveillance capitalism have been designed to create dependency, and it should be the duty of the owners of surveillance capital not manipulate. At the same time, I understand that if one is feeling frustrated/helpless against this beast, it could be easier to withdraw from participation than to propose and fight for reform.
 
 
