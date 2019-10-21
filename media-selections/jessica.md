@@ -39,3 +39,10 @@ Media Justification: When I searched for articles regarding the right to be forg
 https://www.yang2020.com/policies/data-property-right/
 
 Media Justification: Given that the articles this week focused on the issue of regarding data as property, I found this article incredibly relevant. The article discusses Andrew Yang's bid for President and a central component of his campaign, which is his "Data as a Property Right" policy. If I hadn't read any of the articles this week, I would've agreed with Yang's policy. However, now that I am cognizant of the dangers of regarding data as property, I find many components of Yang's policy flawed. His policy proposes an "opt-in" process of data-sharing and how users should get economic value for the data, which I find problematic given that data should not be considered as something you can own, but rather something you emit in small bits every day.
+
+### Class 8 - Surveillance Capitalism
+
+[Smart Cities Are Creating a Mass Surveillance Nightmare]
+(https://www.thedailybeast.com/smart-cities-are-creating-a-mass-surveillance-nightmare)
+
+Media Justification: While the readings this week focused on forms of surveillance capitalism through digital spaces such as Google and Facebook, the article I chose investigates a physical chip that NYC mayor Bill de Blasio wants to embed into NYC IDs. The proposal for these chips represents a step towards an increasingly 1984-esque dystopian society, in which the government can track everyone's activities and whereabouts. I find this deeply concerning, because while big tech companies like Google and Facebook use surveillance capitalism to drive profits, the government's usage of these "smart city chips" appears to be a full-on invasion of privacy.
