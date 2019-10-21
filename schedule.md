@@ -15,4 +15,4 @@
 |11|November 11, 2019|Digital Discourse|||
 |12|November 18, 2019|Current Tech Policy|||
 |-|November 25, 2019| Thanksgiving Week - No Class |   	||
-|13|December 2, 2019| Final Project Presentations|   	||
+|13|December 2, 2019| Techno-Optimism! |   	||
