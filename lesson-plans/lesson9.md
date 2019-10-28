@@ -1,5 +1,5 @@
 
-## Class Eight: Surveillance Capitalism
+## Class Nine: Surveillance Capitalism
 
 ### Review of Assigned Media + New Media (40 minutes)
 
