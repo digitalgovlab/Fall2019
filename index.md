@@ -26,7 +26,6 @@ The study and practice of digital governance should be the study and practice of
 
 - [Prachi](./media-selections/Prachi.md)
 
-
 ## Contact
 
 - [Charlotte McClintock](mailto:char@virginia.edu)

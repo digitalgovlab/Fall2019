@@ -5,9 +5,12 @@ We have spent the semester reading, talking, and thinking about how technology c
 ## Task 
 You will each be responsible for providing thoughtful feedback on four teams designs for STS 4500. Guiding questions are provided below but may not work for every team - get creative! We'd like to see at least two paragraphs worth of text per team but feel free to organize your thoughts however makes sense to you - bulleted lists, tables, maps, etc. 
 
-We will share a doc of each student in the class and your assigned teams to critique. Please feel free to work with other students assigned to the same teams (or different teams!) on your feedback - the best ideas often come from talking and bouncing ideas off each other. 
+[Here is a spreadsheet](https://docs.google.com/spreadsheets/d/1tyKHU1b0-PhgRc79XK2Sv5CC7MEc6zuOzvYPOdvAazg/edit?usp=sharing) with each student in the class and your assigned teams to critique. The folder of submitted assignments is [here](https://drive.google.com/drive/folders/1l2egZLFCVp1SacvDM_EtzfF5fBY2mQ7r?usp=sharing).
 
-Due before class on November 11th by email to Charlotte (ccm9yd@virginia.edu).
+
+Please feel free to work with other students assigned to the same teams (or different teams!) on your feedback - the best ideas often come from talking and bouncing ideas off each other. 
+
+Due before class on November 11th by email to Charlotte (ccm9yd@virginia.edu). Email either of us if you have any questions or want feedback or advice!
 
 ## Guiding Questions
 - Who will this design work well for? Is there anyone this design will not work well for? Could the design be modified in any way to prevent harm to those who might not fit well into the system?
