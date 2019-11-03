@@ -46,3 +46,12 @@ Media Justification: Given that the articles this week focused on the issue of r
 (https://www.thedailybeast.com/smart-cities-are-creating-a-mass-surveillance-nightmare)
 
 Media Justification: While the readings this week focused on forms of surveillance capitalism through digital spaces such as Google and Facebook, the article I chose investigates a physical chip that NYC mayor Bill de Blasio wants to embed into NYC IDs. The proposal for these chips represents a step towards an increasingly 1984-esque dystopian society, in which the government can track everyone's activities and whereabouts. I find this deeply concerning, because while big tech companies like Google and Facebook use surveillance capitalism to drive profits, the government's usage of these "smart city chips" appears to be a full-on invasion of privacy.
+
+
+### Class 9 - Social Media & Democracy
+
+[Big Tech shattered in Glass Room art exhibit]
+(https://www.cnet.com/news/big-tech-shattered-in-glass-room-art-exhibit/)
+(https://theglassroom.org/san-francisco/exhibits)
+
+Media Justification: This week, I chose an article featuring The Glass Room in San Francisco, which currently features Black Mirror-esque exhibititions that shows the true cost of using "free technology". The thought behind each exhibition is absolutely incredible. One exhibit, called "MegaPixels: Face Search", is a custom-built facial recognition system that allows the viewer to see whether their face has been used by big companies such as Amazon, Facebook, and Google to train their facial recognition systems. Other exhibits at The Glass Room include "Smell Dating", which is an application that allows users to track their smell-compatibility with potential dates through a database, and "Forgot Your Password?", a series of books on display that contain the 4.6 million passwords from the 2012 LinkedIn hack.
