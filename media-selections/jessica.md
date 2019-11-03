@@ -46,3 +46,10 @@ Media Justification: Given that the articles this week focused on the issue of r
 (https://www.thedailybeast.com/smart-cities-are-creating-a-mass-surveillance-nightmare)
 
 Media Justification: While the readings this week focused on forms of surveillance capitalism through digital spaces such as Google and Facebook, the article I chose investigates a physical chip that NYC mayor Bill de Blasio wants to embed into NYC IDs. The proposal for these chips represents a step towards an increasingly 1984-esque dystopian society, in which the government can track everyone's activities and whereabouts. I find this deeply concerning, because while big tech companies like Google and Facebook use surveillance capitalism to drive profits, the government's usage of these "smart city chips" appears to be a full-on invasion of privacy.
+
+### Class 10 - Bad Gov Tech & Its Consequences
+
+[Benefits system automation could plunge claimants deeper into poverty]
+(https://www.theguardian.com/technology/2019/oct/14/fears-rise-in-benefits-system-automation-could-plunge-claimants-deeper-into-poverty)
+
+Media Justification: The article I selected investigates how the UK is implementing welfare automation robots, very similar to the situation in Indiana. In both pieces, the "bot billionaire" is adamant that machines can automate processes, increase productivity and efficiency in the welfare system, and improve the distribution of benefits fairly. However, the reality of welfare automation is that too many people are being left behind because of the particularities of the online systems. Shown through the reading for this week and the article I chose, a claimant making the slightest mistake could cost them and their families thousands of dollars in benefits.
