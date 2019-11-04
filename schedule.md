@@ -12,7 +12,7 @@
 |[8](./lesson-plans/lesson8.md)|October 21, 2019|Surveillance Capitalism, Begin Final Projects|  Surveillance Capitalism chapter (see Collab), [Interview](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook), 	| Governance of Technology |
 |[9](./lesson-plans/lesson9.md)|October 28, 2019| Social Media & Democracy | [Aeon](https://aeon.co/essays/digital-technologies-play-politics-lets-use-them-for-democracy), [Tech Crunch](https://techcrunch.com/2019/10/20/facebook-isnt-free-speech-its-algorithmic-amplification-optimized-for-outrage/), [NY Times](https://www.nytimes.com/2019/10/17/opinion/tech-monopoly-democracy-journalism.html)  	||
 |10|November 4, 2019|Bad Gov Tech & Its Consequences |  Automating Inequality chapter (see Collab), [Twitter post](https://twitter.com/supergovernance/status/1136949842696122368)	| Technology of Governance|
-|11|November 11, 2019|Digital Discourse|||
+|11|November 11, 2019|Digital Discourse|(NY Times)[https://www.nytimes.com/2019/10/30/opinion/political-advertising-facebook-twitter.html], (Washington Post)[https://www.washingtonpost.com/business/facebook-twitter-and-the-digital-disinformation-mess/2019/10/31/3f81647c-fbd1-11e9-9e02-1d45cb3dfa8f_story.html], (Vice)[https://www.youtube.com/watch?v=Kerg2rrIdAU]|Governance of Technology |
 |12|November 18, 2019|Current Tech Policy|||
 |-|November 25, 2019| Thanksgiving Week - No Class |   	||
 |13|December 2, 2019| Techno-Optimism! |   	||
