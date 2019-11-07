@@ -62,7 +62,7 @@ I love the energy AOC has during this questioning. She is unafraid to call Zucke
 The reading this week had to do with how automation disparately affects poor and underprivileged people. I found a similarly themed article from The Guardian that explores this concept further, extending its analysis outside of the US, too. It notes that the trend towards automation is "explosively recasting how low-income people interact with the state." It also explains how shifting the responsibility of decision making to an algorithm places accountability on a nonhuman actor, making it difficult to blame for errors and making it difficult to seek redress. This is especially dangerous for people without the resources to fight these changes, and it will allow systematic forms of oppression to proceed unchecked. 
 
 
-### Class 8 - Digital Discourse
+### Class 9 - Digital Discourse
 
 [Reconsidering Anonymity in the Age of Narcissism](https://gabriellacoleman.org/wp-content/uploads/2019/09/Coleman-end-trust-anonymity.pdf)
 
