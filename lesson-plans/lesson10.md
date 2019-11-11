@@ -1,5 +1,5 @@
 
-## Class Ten: Digital Discourse
+## Class Ten: Bad Gov Tech and its Consequences
 
 ### Review of Assigned Media + New Media (40 minutes)
 
