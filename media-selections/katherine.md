@@ -60,3 +60,11 @@ I love the energy AOC has during this questioning. She is unafraid to call Zucke
 [Digital dystopia: how algorithms punish the poor ](https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor)
 
 The reading this week had to do with how automation disparately affects poor and underprivileged people. I found a similarly themed article from The Guardian that explores this concept further, extending its analysis outside of the US, too. It notes that the trend towards automation is "explosively recasting how low-income people interact with the state." It also explains how shifting the responsibility of decision making to an algorithm places accountability on a nonhuman actor, making it difficult to blame for errors and making it difficult to seek redress. This is especially dangerous for people without the resources to fight these changes, and it will allow systematic forms of oppression to proceed unchecked. 
+
+
+### Class 9 - Digital Discourse
+
+[Reconsidering Anonymity in the Age of Narcissism](https://gabriellacoleman.org/wp-content/uploads/2019/09/Coleman-end-trust-anonymity.pdf)
+
+This week's VICE video made me think more about the pros and cons of anonymity on the internet. It was a disturbing video that reminded me that anonymity has the potential to create unthinkably dark spaces such as 8chan. However, while scrolling through twitter, I came across an essay written by Gabriella Coleman about how anonymity can enable democratic processes like dissent and provide safe/protected spaces for discussing stigmatized subjects. She discusses different gradients of anonymity (like using a psuedonym and choosing an obscure avatar icon or concealing IP address). She also provides a thoughtful analysis on misinformation and how it spreads due to factors beyond anonymity. I'm not going to rewrite her whole article, but I think that it's an important essay to read.
+
