@@ -61,3 +61,10 @@ Media Justification: This week, I chose an article featuring The Glass Room in S
 (https://www.theguardian.com/technology/2019/oct/14/fears-rise-in-benefits-system-automation-could-plunge-claimants-deeper-into-poverty)
 
 Media Justification: The article I selected investigates how the UK is implementing welfare automation robots, very similar to the situation in Indiana. In both pieces, the "bot billionaire" is adamant that machines can automate processes, increase productivity and efficiency in the welfare system, and improve the distribution of benefits fairly. However, the reality of welfare automation is that too many people are being left behind because of the particularities of the online systems. Shown through the reading for this week and the article I chose, a claimant making the slightest mistake could cost them and their families thousands of dollars in benefits.
+
+### Class 12 - Current Tech Policy
+
+[The Case for Internet Access as a Human Right]
+(https://www.vice.com/en_us/article/3kxmm5/the-case-for-internet-access-as-a-human-right)
+
+Media Justification: I found it interesting how this article explores how access to the Internet has transformed into a basic human right, not a luxury. This goes to show how the Internet has evolved from not being a necessity to becoming an instrument that is closely tied to who we are as humans. I also noted how the article uses several words and phrases mentioning morality, arguing that it is a moral injustice to deny humans access to the Internet and its online resources. This article made me reflect on what it means to be a human in the digital age, and where we draw the line between our digital and physical selves.
