@@ -68,3 +68,10 @@ The reading this week had to do with how automation disparately affects poor and
 
 This week's VICE video made me think more about the pros and cons of anonymity on the internet. It was a disturbing video that reminded me that anonymity has the potential to create unthinkably dark spaces such as 8chan. However, while scrolling through twitter, I came across an essay written by Gabriella Coleman about how anonymity can enable democratic processes like dissent and provide safe/protected spaces for discussing stigmatized subjects. She discusses different gradients of anonymity (like using a psuedonym and choosing an obscure avatar icon or concealing IP address). She also provides a thoughtful analysis on misinformation and how it spreads due to factors beyond anonymity. I'm not going to rewrite her whole article, but I think that it's an important essay to read.
 
+### Class 10 - Current Tech Policy
+
+[Court Upholds Net Neutrality Repeal, With Some Caveats](https://www.nytimes.com/2019/10/01/technology/net-neutrality-repeal-broadband.html)
+
+To me, net neutrality feels like one of our less important problems. I don't feel much of a moral obligation to the cause, and ambiguous rulings like the one described in this article leaves me confused. The article states that while a federal appeals court upheld the repeal of strict regulations, it also ruled that the FCC overstepped their power into state and local government rules. So, while we have moved toward deregulation, states like California (who is currently trying to) will have the ability to impose its own regulations. I just think this issue is a product of capitalism, again, and our disjointed government system. 
+
+
