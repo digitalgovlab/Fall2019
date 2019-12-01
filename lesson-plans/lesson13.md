@@ -36,6 +36,14 @@ __Charlottesville Organizations__
 - [Smart Cville](https://www.smartcville.com) - civic innovation in Charlottesville
 - [Code for Charlottesville](https://brigade.codeforamerica.org/brigades/Code-for-Charlottesville/) - data and technology for good in Charlottesville, working on projects
 
+__Jobs__
+- data journalism - *using data to tell stories and hold power accountable to people*
+- tech policy - *making decisions on how to regulate emerging digital technologies*
+- technology for NGOs, non-profits, governments - *using technology to help organizations operate at the maximum capacity*
+- tech for campaigns/movements - *using technology to help campaign for change*
+- tech researcher - *academic & think tank jobs studying the impacts of technology* 
+- tech for ethical & sustainable businesses - *helping businesses with a commitment to ethics use technology & data for accountability*
+
 __Organizations In This Space__
 - Coding It Forward - *summer internships in tech in the federal government*
 - Impact Labs - *fellowships/summer internships in tech for good* 
@@ -60,14 +68,6 @@ __Organizations In This Space__
 - Progressive Coders Network - *empowering grassroots and reducing big-money in politics*
 - Ragtag - *progressive campaign tech*
 - Tactical Technology Collective - *Berlin-based, tech, human rights, civil liberties*
-
-__Jobs__
-- data journalism - *using data to tell stories and hold power accountable to people*
-- tech policy - *making decisions on how to regulate emerging digital technologies*
-- technology for NGOs, non-profits, governments - *using technology to help organizations operate at the maximum capacity*
-- tech for campaigns/movements - *using technology to help campaign for change*
-- tech researcher - *academic & think tank jobs studying the impacts of technology* 
-- tech for ethical & sustainable businesses - *helping businesses with a commitment to ethics use technology & data for accountability*
 
 __Job Resources__
 - [Data and technology for good jobs compiled by Ben Green](https://docs.google.com/spreadsheets/d/1-ia1WM-m9Rk3JZpX0jx8uxq5_KWZrYUTnKIbvKTvg5Y/edit#gid=0)
