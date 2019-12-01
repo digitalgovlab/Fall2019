@@ -15,4 +15,4 @@
 |[11](./lesson-plans/lesson11.md)|November 11, 2019|Digital Discourse|[NY Times](https://www.nytimes.com/2019/10/30/opinion/political-advertising-facebook-twitter.html), [Washington Post](https://www.washingtonpost.com/business/facebook-twitter-and-the-digital-disinformation-mess/2019/10/31/3f81647c-fbd1-11e9-9e02-1d45cb3dfa8f_story.html), [Vice](https://www.youtube.com/watch?v=Kerg2rrIdAU)|Governance of Technology |
 |12|November 18, 2019|Current Tech Policy|[Patriot Act](https://www.youtube.com/watch?v=5maXvZ5fyQY), [John Oliver](https://www.youtube.com/watch?v=fpbOEoRrHyU), [John Oliver II](https://www.youtube.com/watch?v=92vuuZt7wak)|Governance of Technology|
 |-|November 25, 2019| Thanksgiving Week - No Class |   	||
-|13|December 2, 2019| Techno-Optimism! |   	||
+|[13](./lesson-plans/lesson13.md)|December 2, 2019| Techno-Optimism! |   	||
